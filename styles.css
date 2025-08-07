@@ -1,11 +1,9 @@
 /* A handy list of color names: https://www.w3schools.com/colors/colors_names.asp */
 body {
     background-color: rgba(192,192,192,1.00);
-    color: rgba(0,51,102;1.00);
+    color: rgba(0,51,102,1.00);
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
     max-width: 100%;
-	margin-left: auto;
-	margin-right: auto;
 	text-align: center;
 }
 header {
@@ -48,8 +46,6 @@ nav ul li a:hover {
 footer {
 	max-width: 100%;
 	height: auto;
-	margin-left: auto;
-	margin-right: auto;
 	background-color: rgba(0, 76, 153, 1.00);
     color: rgba(255,255,255,1.00);
 	text-align: left;
