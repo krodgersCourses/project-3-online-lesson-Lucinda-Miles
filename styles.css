@@ -1,8 +1,7 @@
 /* A handy list of color names: https://www.w3schools.com/colors/colors_names.asp */
-
 body {
     background-color: rgba(192,192,192,1.00);
-    color: rgba(32,32,32,1.00);
+    color: rgba(0,51,102;1.00);
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
     max-width: 100%;
 	margin-left: auto;
@@ -10,7 +9,7 @@ body {
 	text-align: center;
 }
 header {
-    background-color: red;
+    background-color:rgba(0,76,153,1.00);
     color: white;
     font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
     max-width: 100%;
@@ -18,6 +17,7 @@ header {
     padding: 25px;
     text-align: center;
 }
+
 nav {
 	margin-top: 30px;
 }
@@ -28,7 +28,7 @@ nav ul li {
 	display: inline-block;
 }
 nav ul li a {
-	background-color: rgba(64,64,64,0.67);
+	background-color:  rgba(64,64,64,0.67);
 	padding-top: 12px;
 	padding-right: 12px;
 	padding-bottom: 12px;
@@ -43,11 +43,15 @@ nav ul li a {
 nav ul li a:hover {
 	background-color: rgba(128,128,128,0.93);
 }
+
+
 footer {
 	max-width: 100%;
 	height: auto;
-	background-color: red;
-   color: rgba(255,255,255,1.00);
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgba(0, 76, 153, 1.00);
+    color: rgba(255,255,255,1.00);
 	text-align: left;
 	padding-left: 20px;
 	padding-bottom: 20px;
