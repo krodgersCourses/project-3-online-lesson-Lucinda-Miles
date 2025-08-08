@@ -37,6 +37,7 @@ nav ul li a {
 	margin-right: 20px;
 	border-radius: 11px;
 	margin-left: 20px;
+	line-height: 3;
 }
 nav ul li a:hover {
 	background-color: rgba(128,128,128,0.93);
